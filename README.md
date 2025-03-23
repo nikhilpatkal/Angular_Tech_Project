@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.13.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Angular_Tech_Project
+This project is built with the purpose of developing and creating something that provides knowledge and aims to address real-world problems.
+>>>>>>> 7d695a5cf459d389cb63584d0df7b74b79c23b56
